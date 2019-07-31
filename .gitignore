@@ -21,3 +21,12 @@
 /yarn-error.log
 
 .byebug_history
+
+#Idea
+.idea/workspace.xml
+.idea/.generators
+.idea/.rakeTasks
+.idea/misc.xml
+.idea/modules.xml
+.idea/sample_app.iml
+
