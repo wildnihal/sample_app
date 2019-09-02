@@ -1,4 +1,4 @@
-# Load the Rails application.
+pr# Load the Rails application.
 require_relative 'application'
 
 # Initialize the Rails application.
